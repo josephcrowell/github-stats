@@ -134,28 +134,28 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #f34b7d; 
-  width: 47.901%;
+  width: 47.905%;
 " class="progress-item"></span><span style="
   background-color: #555555; 
-  width: 14.341%;
+  width: 14.343%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
-  width: 9.879%;
+  width: 9.881%;
 " class="progress-item"></span><span style="
   background-color: #44a51c; 
-  width: 6.354%;
+  width: 6.342%;
 " class="progress-item"></span><span style="
   background-color: #4F5D95; 
-  width: 6.326%;
+  width: 6.327%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 2.783%;
+  width: 2.785%;
 " class="progress-item"></span><span style="
   background-color: #DA3434; 
   width: 2.487%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 2.281%;
+  width: 2.282%;
 " class="progress-item"></span><span style="
   background-color: #00B4AB; 
   width: 2.198%;
@@ -554,7 +554,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">C++</span>
-  <span class="percent">47.90%</span>
+  <span class="percent">47.91%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -602,7 +602,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">QML</span>
-  <span class="percent">6.35%</span>
+  <span class="percent">6.34%</span>
 </li>
 <li style="animation-delay: 750ms;">
   <svg 
